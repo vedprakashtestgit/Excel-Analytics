@@ -23,5 +23,5 @@ _You **can** combine them_
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
   
-![Sample](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOEGm7LXAN_c%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOEGm7LXAN_c&tbnid=XJphM0BLqnHWkM&vet=12ahUKEwidy8eioOLzAhUhT3wKHWsoDAkQMygEegUIARDRAQ..i&docid=x295xsNZUgIu8M&w=1280&h=720&q=images%20github&client=ubuntu&ved=2ahUKEwidy8eioOLzAhUhT3wKHWsoDAkQMygEegUIARDRAQ)
+![Sample](https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg)
 
