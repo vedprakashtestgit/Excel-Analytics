@@ -1,2 +1,4 @@
 # Excel-Analytics
-THis is for Assignment based on Analytics topics covered with Excel
+This is for Assignment based on Analytics topics covered with Excel.
+
+
